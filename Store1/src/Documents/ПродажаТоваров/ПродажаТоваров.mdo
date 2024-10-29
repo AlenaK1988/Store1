@@ -205,5 +205,19 @@
       <dataHistory>Use</dataHistory>
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
+    <attributes uuid="083bcead-c8ca-4ebd-bb87-e4f5a5d00660">
+      <name>Производители</name>
+      <synonym>
+        <key>ru</key>
+        <value>Производители</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.Производители</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
   </tabularSections>
 </mdclass:Document>
