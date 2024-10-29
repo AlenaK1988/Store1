@@ -118,6 +118,20 @@
       <dataHistory>Use</dataHistory>
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
+    <attributes uuid="cade3ee3-ad28-4895-94ec-2459df569d1f">
+      <name>Производители</name>
+      <synonym>
+        <key>ru</key>
+        <value>Производители</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.Производители</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
     <attributes uuid="e964ad0f-cf92-45f3-b94a-2847b14b5b34">
       <name>Цена</name>
       <synonym>
